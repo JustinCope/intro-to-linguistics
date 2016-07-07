@@ -14,9 +14,6 @@ class YEAR(LEXEME):
 
 
 class MONTH(LEXEME):
-    # if random.randint(0,1) == 0:
-    #     year = YEAR()
-    #     month = month + " " + str(year.orthography)
     def __init__(self):
         months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
         month = months[random.randint(0,len(months)-1)]
