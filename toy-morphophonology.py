@@ -8,7 +8,7 @@ happy = ('hapi', "happy")
 
 
 N = set([boy,house])
-V = set([believe,float])
+V = set([believe,start,meet])
 A = set([short,happy])
 
 def PL(input):
