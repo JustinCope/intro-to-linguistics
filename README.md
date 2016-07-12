@@ -53,6 +53,6 @@ PL(boy)
 PST(boy)
 PST(believe)
 PST(meet)
-CMPR(
+CMPR(house)
 CMPR(short)
 ```
