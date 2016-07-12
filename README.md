@@ -14,14 +14,16 @@ Theorems will be generated until there is no additional memory or until the scri
 ### Usage of mu.puzzle.py###
 
 1. Open Python interpreter from terminal
+
 `python`
 2. Read in script (or just copy/paste)
+
 `execfile('<path/to/mu.puzzle.py>')`
 3. Have fun.
 ```
 MU_Puzzle_Solver(10)
 MU_Puzzle_Solver(100)
-MU_Puzzle_Solver(1000) \# etc.
+MU_Puzzle_Solver(1000) # etc.
 ```
 
 ##temporal-reference-engine.py##
@@ -33,7 +35,7 @@ From the interpreter:
 ```
 execfile('<path/to/temporal-reference-engine.py')
 
-Time() \# etc.
+Time() # etc.
 ```
 
 
